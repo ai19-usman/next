@@ -6,15 +6,14 @@ const Page = () => {
     <div className="flex items-center justify-center">
       <Image
         className="w-24 h-24 md:w-48 md:h-auto rounded-full"
-        src="/home image.jpg"
-        alt="Home Image"
+        src="/mobile.jpg"
+        alt="Mobile Image"
         width="96"
         height="96"
       />
       <div className="text-center md:text-left ml-4">
-        <p>Home Page,
-          My home is very beautiful.My home is in Rahim Yar Khan, a city known for its rich culture 
-          and community values. My residence serves as a place of comfort and inspiration.
+        <p>contact No. 0305-3364646, 0333-7459594
+            address- house no 3/c, Block W, Gulshan-e-usman,Rahim yar Khan
         </p>
       </div>
     </div>
